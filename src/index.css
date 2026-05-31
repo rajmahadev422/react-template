@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-:root[data-theme="light"] {
+:root {
   --bg: #ffffff;
   --bg-2: #f8f9fc;
   --bg-3: #f0f2f7;
