@@ -2,7 +2,7 @@
 
 ## Dependency Included
 
-- React Router Dom
+- React Router
 - Tailwindcss
 
 ## Theme Variable
